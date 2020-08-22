@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SMK IDN</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="title_galeri">Galeri</string>
+    <string name="title_prestasi">Prestasi</string>
+    <string name="title_sekolah">Sekolah</string>
+    <string name="title_founder">Founder</string>
+    <string name="title_ekskul">Ekskul</string>
+    <string name="smkidn">IDN Boarding School</string>
+    <string name="alamat">Jl. Raya Dayeuh, Sukanegara, Kec. Jonggol, Bogor, Jawa Barat 16830</string>
+</resources>
