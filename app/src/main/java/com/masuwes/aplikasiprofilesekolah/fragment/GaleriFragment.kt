@@ -23,6 +23,8 @@ class GaleriFragment : Fragment() {
         binding = FragmentGaleriBinding.inflate(inflater, container, false)
         adapter = ListItemGaleriAdapter()
 
+        // p
+
         binding.apply {
             listGaleri.adapter = adapter
             listGaleri.layoutManager = LinearLayoutManager(context)
