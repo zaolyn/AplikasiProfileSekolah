@@ -24,6 +24,7 @@ class GaleriFragment : Fragment() {
         adapter = ListItemGaleriAdapter()
 
         // p
+        // p
 
         binding.apply {
             listGaleri.adapter = adapter
