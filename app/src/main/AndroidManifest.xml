@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.masuwes.aplikasiprofilesekolah">
+    package="com.masfaza.aplikasiprofilesekolah">
 
     <uses-permission android:name="android.permission.INTERNET" />
 
@@ -12,11 +12,11 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity
-            android:name=".MainActivity"
+            android:name="com.masfaza.aplikasiprofilesekolah.MainActivity"
             android:label="@string/app_name"/>
 
         <activity
-            android:name=".SplashScreen"
+            android:name="com.masfaza.aplikasiprofilesekolah.SplashScreen"
             android:theme="@style/NoActionBar">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

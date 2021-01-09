@@ -1,11 +1,11 @@
-package com.masuwes.aplikasiprofilesekolah.adapter
+package com.masfaza.aplikasiprofilesekolah.adapter
 
 import android.view.LayoutInflater
 import android.view.ViewGroup
 import android.widget.Toast
 import androidx.recyclerview.widget.RecyclerView
-import com.masuwes.aplikasiprofilesekolah.databinding.ListItemGaleriBinding
-import com.masuwes.aplikasiprofilesekolah.datamodel.DataSetGaleriModel
+import com.masfaza.aplikasiprofilesekolah.databinding.ListItemGaleriBinding
+import com.masfaza.aplikasiprofilesekolah.datamodel.DataSetGaleriModel
 
 class ListItemGaleriAdapter: RecyclerView.Adapter<ListItemGaleriViewHolder>() {
 

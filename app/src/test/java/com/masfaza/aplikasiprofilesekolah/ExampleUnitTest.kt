@@ -1,4 +1,4 @@
-package com.masuwes.aplikasiprofilesekolah
+package com.masfaza.aplikasiprofilesekolah
 
 import org.junit.Test
 

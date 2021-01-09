@@ -1,10 +1,10 @@
-package com.masuwes.aplikasiprofilesekolah.adapter
+package com.masfaza.aplikasiprofilesekolah.adapter
 
 import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
-import com.masuwes.aplikasiprofilesekolah.databinding.ListItemPrestasiBinding
-import com.masuwes.aplikasiprofilesekolah.datamodel.DataSetPrestasiModel
+import com.masfaza.aplikasiprofilesekolah.databinding.ListItemPrestasiBinding
+import com.masfaza.aplikasiprofilesekolah.datamodel.DataSetPrestasiModel
 
 class ListItemPrestasiAdapter: RecyclerView.Adapter<ListItemPrestasiViewHolder>() {
 

@@ -1,4 +1,4 @@
-package com.masuwes.aplikasiprofilesekolah.fragment
+package com.masfaza.aplikasiprofilesekolah.fragment
 
 import android.os.Bundle
 import android.view.LayoutInflater
@@ -6,9 +6,9 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.fragment.app.Fragment
 import androidx.recyclerview.widget.LinearLayoutManager
-import com.masuwes.aplikasiprofilesekolah.adapter.ListItemEkskulAdapter
-import com.masuwes.aplikasiprofilesekolah.databinding.FragmentEkskulBinding
-import com.masuwes.aplikasiprofilesekolah.datamodel.DataSetEkskul
+import com.masfaza.aplikasiprofilesekolah.adapter.ListItemEkskulAdapter
+import com.masfaza.aplikasiprofilesekolah.databinding.FragmentEkskulBinding
+import com.masfaza.aplikasiprofilesekolah.datamodel.DataSetEkskul
 
 class EkskulFragment : Fragment() {
 

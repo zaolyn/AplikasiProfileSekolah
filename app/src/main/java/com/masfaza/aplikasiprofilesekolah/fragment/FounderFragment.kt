@@ -1,11 +1,11 @@
-package com.masuwes.aplikasiprofilesekolah.fragment
+package com.masfaza.aplikasiprofilesekolah.fragment
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
-import com.masuwes.aplikasiprofilesekolah.R
+import com.masfaza.aplikasiprofilesekolah.R
 
 class FounderFragment : Fragment() {
 

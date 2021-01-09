@@ -1,4 +1,4 @@
-package com.masuwes.aplikasiprofilesekolah.datamodel
+package com.masfaza.aplikasiprofilesekolah.datamodel
 
 // model data
 data class DataSetGaleriModel(

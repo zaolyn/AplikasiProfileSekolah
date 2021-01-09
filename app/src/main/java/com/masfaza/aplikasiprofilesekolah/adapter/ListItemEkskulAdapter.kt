@@ -1,10 +1,10 @@
-package com.masuwes.aplikasiprofilesekolah.adapter
+package com.masfaza.aplikasiprofilesekolah.adapter
 
 import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
-import com.masuwes.aplikasiprofilesekolah.databinding.ListItemGaleriBinding
-import com.masuwes.aplikasiprofilesekolah.datamodel.DataSetEkskulModel
+import com.masfaza.aplikasiprofilesekolah.databinding.ListItemGaleriBinding
+import com.masfaza.aplikasiprofilesekolah.datamodel.DataSetEkskulModel
 
 class ListItemEkskulAdapter: RecyclerView.Adapter<ListItemEkskulViewHolder>() {
 

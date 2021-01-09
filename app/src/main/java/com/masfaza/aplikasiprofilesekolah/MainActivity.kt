@@ -1,4 +1,4 @@
-package com.masuwes.aplikasiprofilesekolah
+package com.masfaza.aplikasiprofilesekolah
 
 import android.os.Bundle
 import com.google.android.material.bottomnavigation.BottomNavigationView

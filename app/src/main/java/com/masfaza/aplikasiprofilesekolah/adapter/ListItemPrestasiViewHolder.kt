@@ -1,9 +1,9 @@
-package com.masuwes.aplikasiprofilesekolah.adapter
+package com.masfaza.aplikasiprofilesekolah.adapter
 
 import androidx.recyclerview.widget.RecyclerView
 import com.bumptech.glide.Glide
-import com.masuwes.aplikasiprofilesekolah.databinding.ListItemPrestasiBinding
-import com.masuwes.aplikasiprofilesekolah.datamodel.DataSetPrestasiModel
+import com.masfaza.aplikasiprofilesekolah.databinding.ListItemPrestasiBinding
+import com.masfaza.aplikasiprofilesekolah.datamodel.DataSetPrestasiModel
 
 class ListItemPrestasiViewHolder(private val binding: ListItemPrestasiBinding):
     RecyclerView.ViewHolder(binding.root) {

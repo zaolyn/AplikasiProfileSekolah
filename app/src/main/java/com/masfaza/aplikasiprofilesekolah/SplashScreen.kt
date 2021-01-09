@@ -1,4 +1,4 @@
-package com.masuwes.aplikasiprofilesekolah
+package com.masfaza.aplikasiprofilesekolah
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity

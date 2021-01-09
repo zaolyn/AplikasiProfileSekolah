@@ -7,27 +7,27 @@
 
     <fragment
         android:id="@+id/navigation_galeri"
-        android:name="com.masuwes.aplikasiprofilesekolah.fragment.GaleriFragment"
+        android:name="com.masfaza.aplikasiprofilesekolah.fragment.GaleriFragment"
         tools:layout="@layout/fragment_galeri" />
 
     <fragment
         android:id="@+id/navigation_prestasi"
-        android:name="com.masuwes.aplikasiprofilesekolah.fragment.PrestasiFragment"
+        android:name="com.masfaza.aplikasiprofilesekolah.fragment.PrestasiFragment"
         tools:layout="@layout/fragment_prestasi" />
 
     <fragment
         android:id="@+id/navigation_sekolah"
-        android:name="com.masuwes.aplikasiprofilesekolah.fragment.SekolahFragment"
+        android:name="com.masfaza.aplikasiprofilesekolah.fragment.SekolahFragment"
         tools:layout="@layout/fragment_sekolah" />
 
     <fragment
         android:id="@+id/navigation_founder"
-        android:name="com.masuwes.aplikasiprofilesekolah.fragment.FounderFragment"
+        android:name="com.masfaza.aplikasiprofilesekolah.fragment.FounderFragment"
         tools:layout="@layout/fragment_founder" />
 
     <fragment
         android:id="@+id/navigation_ekskul"
-        android:name="com.masuwes.aplikasiprofilesekolah.fragment.EkskulFragment"
+        android:name="com.masfaza.aplikasiprofilesekolah.fragment.EkskulFragment"
         tools:layout="@layout/fragment_ekskul" />
 
 
